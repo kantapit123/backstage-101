@@ -94,7 +94,7 @@ catalog:
         - allow: [Template]
 
     - type: url
-      target: https://github.com/kantapit123/golang-template-pitch/blob/main/template/template.yaml
+      target: https://github.com/kantapit123/golang-template-pitch/blob/main/template.yaml
       rules:
         - allow: [Template]
 
